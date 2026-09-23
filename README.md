@@ -71,4 +71,4 @@ jupyter notebook energy_forecasting.ipynb
 
 ## 👤 Author
 
-**Akki** — MSc Data Science
+**Akshit Gajera** — MSc Data Science
